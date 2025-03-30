@@ -82,10 +82,10 @@ ____  ___         _________                       __
       \_/                 \/            \/     \/     \/                         
 """%(N))                                                    
 ───────────────────────────────────────────────────────
- [\x1b[1;96m+%s] Admin       : Faz 丂卂乃ㄥ乇几Ҝ
- [\x1b[1;96m+%s] WhatsApp   : 6283878083448
- [\x1b[1;96m+%s] Facebook   : 卩尺ㄖᎶ尺卂爪 匚ㄖᗪ乇
- [\x1b[1;96m+%s] Github      : https://github.com/Anonymous501
+ [\x1b[1;96m+%s] Admin       : RANDY
+ [\x1b[1;96m+%s] WhatsApp   : 6281318304995
+ [\x1b[1;96m+%s] Facebook   : RANDY KYLE
+ [\x1b[1;96m+%s] Github      : https://github.com/randykyle76
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 def sayang():
     os.system("clear")
